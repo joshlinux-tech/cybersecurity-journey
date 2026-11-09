@@ -23,4 +23,4 @@ My cybersecurity journey in public: notes, lab write-ups, CTFs, scripts, and les
 ## Connect
 - TryHackMe: [profile link]
 - LinkedIn: [link]
-- email: joshlinux.tech@gmail.com
+- Email: joshlinux.tech@gmail.com
